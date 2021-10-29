@@ -1,7 +1,7 @@
 # About me 
 
 - 🔭 Hi there 👋I’m Ismahan Abey aka mahan.... a fullstack developer
-- 🌱 I’m currently learning Angular framework and Reactjs
+- 🌱 I’m currently learning Redux and Reactjs
 - 👯I’m into problem solving and team collaboration
 - 🤔 I love creating and building stuffs also discovering new things
 - 💬 Feel free to reach out incase of a query...
